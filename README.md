@@ -1,6 +1,6 @@
 # Computación y Estructuras Discretas 2
 
-## Programación funcional, Taller 1
+## Programación funcional, Taller 2. Conjuntos como funciones
 
 
 ### Objetivos
